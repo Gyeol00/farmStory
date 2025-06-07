@@ -26,7 +26,3 @@
 
 ### 한결
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyeol00)](https://github.com/anuraghazra/github-readme-stats)
-
-## 기능 설명
-# farm
-# farmStory
